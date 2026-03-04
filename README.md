@@ -178,33 +178,27 @@ Exploring a healthcare topic through problem discovery, validation, and solution
 </table>
 
 <br/>
-
 <!-- ===================== SKILLS ===================== -->
 <a id="skills"></a>
 
-## 🛠 Skills
+## 🧰 Tech Stack
 
+<!-- Icon row (Skill Icons) - Notion INCLUDED -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,aws,azure,mongodb,figma,git,github,vscode,notion&perline=10" />
+</p>
+
+<!-- Text blocks row (NO https, NO images) -->
 <div align="center">
-
-<img src="https://img.shields.io/badge/Product_Strategy-EEE6DD?style=for-the-badge&labelColor=D59A5A&color=EEE6DD" />
-<img src="https://img.shields.io/badge/UX_%26_Prototyping-EEE6DD?style=for-the-badge&labelColor=D59A5A&color=EEE6DD" />
-<img src="https://img.shields.io/badge/Data_%26_BI-EEE6DD?style=for-the-badge&labelColor=D59A5A&color=EEE6DD" />
-<img src="https://img.shields.io/badge/AI_Systems-EEE6DD?style=for-the-badge&labelColor=D59A5A&color=EEE6DD" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/KNIME-FFC900?style=flat&logo=data&logoColor=black" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-
+  <kbd>POWER BI</kbd>
+  <kbd>TABLEAU</kbd>
+  <kbd>EXCEL</kbd>
+  <kbd>POWERPOINT</kbd>
+  <kbd>JIRA</kbd>
+  <kbd>CANVA</kbd>
+  <kbd>KNIME</kbd>
+  <kbd>MATHEMATICA</kbd>
 </div>
-
 <br/>
 
 <!-- ===================== LEARNING ===================== -->
