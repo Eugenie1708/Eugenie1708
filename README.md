@@ -182,7 +182,7 @@ Exploring a healthcare topic through problem discovery, validation, and solution
 <!-- ===================== SKILLS ===================== -->
 <a id="skills"></a>
 
-## 🛠 Skills (PM + Analytics)
+## 🛠 Skills
 
 <div align="center">
 
