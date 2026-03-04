@@ -93,6 +93,29 @@ K-means segmentation using behavioral signals to support targeting and messaging
   <tr>
     <td width="50%" valign="top">
 
+### 🤖 AI Investment Helper
+<sub><b>Finance Education · LLM App</b></sub>
+
+An educational AI web app that helps beginners understand **funds**, **bonds**, and **basic asset allocation** through natural-language questions.
+
+**Highlights**
+- LLM-based intent classification (Knowledge / Advice / Personalized / Mixed)
+- Two-stage reasoning for structured explanations
+- Built with Gradio + education-only safeguards (no buy/sell)
+
+<sub>
+<img src="https://img.shields.io/badge/LLM-D59A5A?style=flat&labelColor=D59A5A&color=E8D6C6" />
+<img src="https://img.shields.io/badge/Gradio-D59A5A?style=flat&labelColor=D59A5A&color=E8D6C6" />
+<img src="https://img.shields.io/badge/Education-D59A5A?style=flat&labelColor=D59A5A&color=E8D6C6" />
+</sub>
+
+<br/>
+
+➡️ <a href="https://github.com/Eugenie1708/ai-investment-helper"><b>View Details</b></a>
+
+</td>
+<td width="50%" valign="top">
+
 ### 🧠 AI-Powered Talent & Market Intelligence
 <sub><b>AI Systems · Decision Support</b></sub>
 
@@ -110,7 +133,10 @@ A bid decision support prototype that turns unstructured inputs into structured 
 </sub>
 
 </td>
-<td width="50%" valign="top">
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🌍 Sustainability Dashboard Case Competition
 <sub><b>Product Strategy · UX Optimization</b></sub>
@@ -129,10 +155,7 @@ A product strategy project to improve adoption and usability for a sustainabilit
 </sub>
 
 </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
 ### 🏥 Healthcare Innovation (Entrepreneurship)
 <sub><b>Entrepreneurship · Customer Discovery</b></sub>
@@ -151,12 +174,6 @@ Exploring a healthcare topic through problem discovery, validation, and solution
 </sub>
 
 </td>
-<td width="50%" valign="top">
-
-<!-- (Optional) Add another project here later -->
-<br/>
-
-</td>
   </tr>
 </table>
 
@@ -165,11 +182,10 @@ Exploring a healthcare topic through problem discovery, validation, and solution
 <!-- ===================== SKILLS ===================== -->
 <a id="skills"></a>
 
-## 🛠 Skills
+## 🛠 Skills (PM + Analytics)
 
 <div align="center">
 
-<!-- PM-oriented grouping (simple + readable) -->
 <img src="https://img.shields.io/badge/Product_Strategy-EEE6DD?style=for-the-badge&labelColor=D59A5A&color=EEE6DD" />
 <img src="https://img.shields.io/badge/UX_%26_Prototyping-EEE6DD?style=for-the-badge&labelColor=D59A5A&color=EEE6DD" />
 <img src="https://img.shields.io/badge/Data_%26_BI-EEE6DD?style=for-the-badge&labelColor=D59A5A&color=EEE6DD" />
@@ -177,7 +193,6 @@ Exploring a healthcare topic through problem discovery, validation, and solution
 
 <br/><br/>
 
-<!-- Keep the tech badges, but not too many lines -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
