@@ -185,19 +185,28 @@ Exploring a healthcare topic through problem discovery, validation, and solution
 
 ### 📈 Analytics & Modeling
 <sub>Modeling · Experimentation · Data prep</sub><br/><br/>
-<kbd>Python</kbd> <kbd>R</kbd> <kbd>SQL</kbd>
+<img src="https://skillicons.dev/icons?i=python,r,postgres,mysql" height="44" /><br/><br/>
+
+
 
 ### 📊 BI & Data Visualization
 <sub>Dashboards · KPI tracking · Storytelling</sub><br/><br/>
-<kbd>Power BI</kbd> <kbd>Tableau</kbd> <kbd>Excel</kbd> 
+<!-- No skillicons for Power BI/Tableau/Excel → keep as kbd only (but layout stays consistent) -->
+<kbd>Power BI</kbd> <kbd>Tableau</kbd> <kbd>Excel</kbd> <kbd>Reporting</kbd> <kbd>KPI Design</kbd> <kbd>Data Storytelling</kbd>
+
+
 
 ### 🎨 Product Design & Communication
 <sub>UX thinking · Prototyping · Clear docs</sub><br/><br/>
-<kbd>Figma</kbd> <kbd>PowerPoint</kbd> <kbd>Canva</kbd> <kbd>draw.io</kbd> 
+<img src="https://skillicons.dev/icons?i=figma" height="44" /><br/><br/>
+<kbd>PowerPoint</kbd> <kbd>Canva</kbd> <kbd>draw.io</kbd> <kbd>User Flows</kbd> <kbd>System Diagrams</kbd> <kbd>Documentation</kbd>
+
+
 
 ### ⚙️ Engineering Workflow & Data Platforms
 <sub>Version control · Collaboration · Data platforms</sub><br/><br/>
-<kbd>Notion</kbd> <kbd>Jira</kbd> <kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>VS Code</kbd> <kbd>AWS</kbd> <kbd>Azure</kbd> <kbd>MongoDB</kbd> <kbd>KNIME</kbd> 
+<img src="https://skillicons.dev/icons?i=git,github,vscode,notion,aws,azure,mongodb" height="44" /><br/><br/>
+<kbd>Jira</kbd> <kbd>KNIME</kbd> <kbd>ETL/ELT</kbd> <kbd>Pipelines</kbd> <kbd>Reproducibility</kbd> 
 <br/>
 
 <div align="center">
