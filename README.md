@@ -181,49 +181,23 @@ Exploring a healthcare topic through problem discovery, validation, and solution
 <!-- ===================== SKILLS ===================== -->
 <a id="skills"></a>
 
-## 🧰 Tech Stack
+## 🧰 Skills
 
-<!-- Icon row (Skill Icons) - Notion INCLUDED -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,aws,azure,mongodb,figma,git,github,vscode,notion&perline=10" />
-</p>
+### 📈 Analytics & Modeling
+<sub>Modeling · Experimentation · Data prep</sub><br/><br/>
+<kbd>Python</kbd> <kbd>R</kbd> <kbd>SQL</kbd>
 
-<!-- Text blocks row (NO https, NO images) -->
-<div align="center">
-  <kbd>POWER BI</kbd>
-  <kbd>TABLEAU</kbd>
-  <kbd>EXCEL</kbd>
-  <kbd>POWERPOINT</kbd>
-  <kbd>JIRA</kbd>
-  <kbd>CANVA</kbd>
-  <kbd>KNIME</kbd>
-  <kbd>MATHEMATICA</kbd>
-</div>
-<br/>
+### 📊 BI & Data Visualization
+<sub>Dashboards · KPI tracking · Storytelling</sub><br/><br/>
+<kbd>Power BI</kbd> <kbd>Tableau</kbd> <kbd>Excel</kbd> 
 
-<!-- ===================== LEARNING ===================== -->
-<a id="learning"></a>
+### 🎨 Product Design & Communication
+<sub>UX thinking · Prototyping · Clear docs</sub><br/><br/>
+<kbd>Figma</kbd> <kbd>PowerPoint</kbd> <kbd>Canva</kbd> <kbd>draw.io</kbd> 
 
-## 📚 Currently Learning
-
-- Product strategy & roadmap thinking  
-- Human-centered design for analytics products  
-- AI system architecture & decision frameworks  
-
-<br/>
-
-<!-- ===================== CONNECT ===================== -->
-<a id="connect"></a>
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Portfolio-Visit_My_Website-blue?style=for-the-badge&logo=internet-explorer)](https://eugenie1708.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0078B6?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lai-ichia-eugenie/)
-
-</div>
-
+### ⚙️ Engineering Workflow & Data Platforms
+<sub>Version control · Collaboration · Data platforms</sub><br/><br/>
+<kbd>Notion</kbd> <kbd>Jira</kbd> <kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>VS Code</kbd> <kbd>AWS</kbd> <kbd>Azure</kbd> <kbd>MongoDB</kbd> <kbd>KNIME</kbd> 
 <br/>
 
 <div align="center">
