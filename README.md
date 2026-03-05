@@ -5,7 +5,7 @@
 
 ### 📊 Business Analytics · 🤖 AI Systems · 🧭 Product Thinking
 
-**Master’s in Business Analytics @ Gies Business School, UIUC**  
+**Master’s in Business Analytics @ Gies College of Business, UIUC**  
 Statistics & Information Science background
 
 <br/>
