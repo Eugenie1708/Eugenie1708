@@ -14,7 +14,9 @@ Statistics & Information Science background
 <a href="#about"><img src="https://img.shields.io/badge/About-E8D6C6?style=for-the-badge&labelColor=D59A5A&color=E8D6C6" /></a>
 <a href="#projects"><img src="https://img.shields.io/badge/Projects-E8D6C6?style=for-the-badge&labelColor=D59A5A&color=E8D6C6" /></a>
 <a href="#skills"><img src="https://img.shields.io/badge/Skills-E8D6C6?style=for-the-badge&labelColor=D59A5A&color=E8D6C6" /></a>
-<a href="#learning"><img src="https://img.shields.io/badge/Learning-E8D6C6?style=for-the-badge&labelColor=D59A5A&color=E8D6C6" /></a>
+<!--
+<a href="#learning"><img src="https://img.shields.io/badge/Learning-E8D6C6?style=for-the-badge&labelColor=D59A5A&color=E8D6C6" /></a> 
+-->
 <a href="#connect"><img src="https://img.shields.io/badge/Connect-E8D6C6?style=for-the-badge&labelColor=D59A5A&color=E8D6C6" /></a>
 
 <br/><br/>
