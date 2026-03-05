@@ -208,7 +208,30 @@ Exploring a healthcare topic through problem discovery, validation, and solution
 <img src="https://skillicons.dev/icons?i=git,github,vscode,notion,aws,azure,mongodb" height="44" /><br/><br/>
 <kbd>Jira</kbd> <kbd>KNIME</kbd> <kbd>ETL/ELT</kbd> <kbd>Pipelines</kbd> <kbd>Reproducibility</kbd> 
 <br/>
+<!-- ===================== LEARNING ===================== -->
+<a id="learning"></a>
 
+## 📚 Currently Learning
+
+- Product strategy & roadmap thinking  
+- Human-centered design for analytics products  
+- AI system architecture & decision frameworks  
+
+<br/>
+
+<!-- ===================== CONNECT ===================== -->
+<a id="connect"></a>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Portfolio-Visit_My_Website-blue?style=for-the-badge&logo=internet-explorer)](https://eugenie1708.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0078B6?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lai-ichia-eugenie/)
+
+</div>
+
+<br/>
 <div align="center">
 
 ### ✨ Always curious. Always building. Always learning. ✨
