@@ -138,20 +138,21 @@ A bid decision support prototype that turns unstructured inputs into structured 
   <tr>
     <td width="50%" valign="top">
 
-### 🌍 Sustainability Dashboard Case Competition
-<sub><b>Product Strategy · UX Optimization</b></sub>
+### 🌍 CPRBS Case Competition — AI-Powered Sustainability Intelligence Platform
+<sub><b>AI Product Prototype · Dashboard Redesign · Sustainability Intelligence</b></sub>
 
-A product strategy project to improve adoption and usability for a sustainability dashboard.
+A prototype platform developed for the **CPRBS Case Competition** to transform a static sustainability dashboard into an interactive intelligence system for students, faculty, and industry users.
 
 **Highlights**
-- Adoption strategy & onboarding flow
-- UX improvements via prototyping
-- AI assistant concept for guidance
-
+- Role-based portals for **Student, Faculty, and Industry**
+- **AI-powered Faculty Matcher** for expert discovery
+- **RAG-based chatbot** for grounded research Q&A
+- Industry-facing **ESG strategy and consulting pathway**
+- Interactive prototype and marketing demo built for competition presentation
 <sub>
-<img src="https://img.shields.io/badge/Strategy-D59A5A?style=flat&labelColor=D59A5A&color=E8D6C6" />
+<img src="https://img.shields.io/badge/Product Design-D59A5A?style=flat&labelColor=D59A5A&color=E8D6C6" />
 <img src="https://img.shields.io/badge/UX-D59A5A?style=flat&labelColor=D59A5A&color=E8D6C6" />
-<img src="https://img.shields.io/badge/Figma-D59A5A?style=flat&labelColor=D59A5A&color=E8D6C6" />
+<img src="https://img.shields.io/badge/AI Application-D59A5A?style=flat&labelColor=D59A5A&color=E8D6C6" />
 </sub>
 
 </td>
