@@ -138,10 +138,10 @@ A bid decision support prototype that turns unstructured inputs into structured 
   <tr>
     <td width="50%" valign="top">
 
-### 🌍 CPRBS Case Competition — AI-Powered Sustainability Intelligence Platform
+### 🌍 AI-Powered Sustainability Intelligence Platform
 <sub><b>AI Product Prototype · Dashboard Redesign · Sustainability Intelligence</b></sub>
 
-A prototype platform developed for the **CPRBS Case Competition** to transform a static sustainability dashboard into an interactive intelligence system for students, faculty, and industry users.
+This is a prototype platform developed for the **CPRBS Case Competition** 
 
 **Highlights**
 - Role-based portals for **Student, Faculty, and Industry**
@@ -154,7 +154,11 @@ A prototype platform developed for the **CPRBS Case Competition** to transform a
 <img src="https://img.shields.io/badge/UX-D59A5A?style=flat&labelColor=D59A5A&color=E8D6C6" />
 <img src="https://img.shields.io/badge/AI Application-D59A5A?style=flat&labelColor=D59A5A&color=E8D6C6" />
 </sub>
+<br/>
 
+➡️ <a href="https://github.com/Eugenie1708/case-competition"><b>View Details</b></a>
+
+</td>
 </td>
 <td width="50%" valign="top">
 
