@@ -144,10 +144,8 @@ A bid decision support prototype that turns unstructured inputs into structured 
 This is a prototype platform developed for the **CPRBS Case Competition** 
 
 **Highlights**
-- Role-based portals for **Student, Faculty, and Industry**
 - **AI-powered Faculty Matcher** for expert discovery
 - **RAG-based chatbot** for grounded research Q&A
-- Industry-facing **ESG strategy and consulting pathway**
 - Interactive prototype and marketing demo built for competition presentation
 <sub>
 <img src="https://img.shields.io/badge/Product Design-D59A5A?style=flat&labelColor=D59A5A&color=E8D6C6" />
